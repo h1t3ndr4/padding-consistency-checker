@@ -12,15 +12,6 @@ The function inspects an iterable of numeric strings and returns:
 - `-N` → Mixed padded and unpadded values, with consistent padded length; returns negative of the minimum length
 - `0` → No valid numeric strings present
 
-## 📁 Project Structure
-
-├── checkNumberPadding.ts # Source implementation
-├── checkNumberPadding.js # Compiled JavaScript version
-├── test.js # Node.js test runner
-├── package.json
-└── tsconfig.json
-
-
 ## How to Run the Program
 
 ### 1. Clone the Repository
